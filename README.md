@@ -16,6 +16,7 @@
 - [Ignite](https://github.com/weaveworks/ignite) unifies Firecracker & Docker experience with GitOps
 - [Slim](https://github.com/ottomatica/slim/) allows using Dockerfiles to create micro VMs
 	- [Slim tutorial](https://dev.to/chrisparnin/slim-create-a-micro-vm-from-a-dockerfile-21od)
+- [Nanos](https://github.com/nanovms/nanos)
 
 # Talks/Videos
 
