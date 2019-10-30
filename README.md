@@ -6,7 +6,6 @@
 # micro-vm: What & Why?
 - [Micro VM Introduction](https://searchsecurity.techtarget.com/definition/micro-VM-micro-virtual-machine)
 
-
 # Projects
 
 - [Kata Containers](https://github.com/kata-containers/runtime)
@@ -16,7 +15,15 @@
 - [Ignite](https://github.com/weaveworks/ignite) unifies Firecracker & Docker experience with GitOps
 - [Slim](https://github.com/ottomatica/slim/) allows using Dockerfiles to create micro VMs
 	- [Slim tutorial](https://dev.to/chrisparnin/slim-create-a-micro-vm-from-a-dockerfile-21od)
-- [Nanos](https://github.com/nanovms/nanos)
+
+# Posts
+
+- [Kubernetes and Virtual Machines](https://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/)
+- [Exploring why containers and MivroVMs together in context of orchestration](https://www.infoq.com/articles/containers-hypervisors-2019/)
+
+# Demos
+
+- [Using Virtual Kubelet and Ignite together](https://github.com/chanwit/vkignite)
 
 # Talks/Videos
 
