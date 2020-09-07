@@ -25,6 +25,8 @@
 
 - [Using Virtual Kubelet and Ignite together](https://github.com/chanwit/vkignite)
 
+- [A chef cookbok which uses Ignite to launch MicroVMs](https://github.com/begleybrothers/ignite.chef)
+
 # Talks/Videos
 
 - [Introduction and hands on demo of Firecracker](https://www.youtube.com/watch?v=JU-zp1dTC58)
