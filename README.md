@@ -15,6 +15,7 @@
 - [Ignite](https://github.com/weaveworks/ignite) unifies Firecracker & Docker experience with GitOps
 - [Slim](https://github.com/ottomatica/slim/) allows using Dockerfiles to create micro VMs
 	- [Slim tutorial](https://dev.to/chrisparnin/slim-create-a-micro-vm-from-a-dockerfile-21od)
+- [Hyperlight](https://github.com/hyperlight-dev/hyperlight) is a lightweight Virtual Machine Manager designed to be embedded within applications
 
 # Posts
 
