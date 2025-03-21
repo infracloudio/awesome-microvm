@@ -8,11 +8,11 @@
 
 # Projects
 
-- [Kata Containers](https://github.com/kata-containers/runtime)
+- [Kata Containers](https://github.com/kata-containers/kata-containers)
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) allows running and managing micro VMs
 	- [Deep dive on Firecracker](https://lwn.net/Articles/775736/)
 	- [ContainerD managed MicroVMs](https://github.com/firecracker-microvm/firecracker-containerd)
-- [Ignite](https://github.com/weaveworks/ignite) unifies Firecracker & Docker experience with GitOps
+- [Flintlock](https://github.com/liquidmetal-dev/flintlock) is a streamlined service to manage the lifecycle of micro VMs
 - [Slim](https://github.com/ottomatica/slim/) allows using Dockerfiles to create micro VMs
 	- [Slim tutorial](https://dev.to/chrisparnin/slim-create-a-micro-vm-from-a-dockerfile-21od)
 - [Hyperlight](https://github.com/hyperlight-dev/hyperlight) is a lightweight Virtual Machine Manager designed to be embedded within applications
