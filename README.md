@@ -8,13 +8,17 @@
 
 # Projects
 
+- [Alioth](https://github.com/google/alioth)
+- [Cloud Hypervisor](https://www.cloudhypervisor.org/)
 - [Kata Containers](https://github.com/kata-containers/kata-containers)
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) allows running and managing micro VMs
 	- [Deep dive on Firecracker](https://lwn.net/Articles/775736/)
 	- [ContainerD managed MicroVMs](https://github.com/firecracker-microvm/firecracker-containerd)
 - [Flintlock](https://github.com/liquidmetal-dev/flintlock) is a streamlined service to manage the lifecycle of micro VMs
+- [NixOS microVMs](https://github.com/astro/microvm.nix)
 - [Slim](https://github.com/ottomatica/slim/) allows using Dockerfiles to create micro VMs
 	- [Slim tutorial](https://dev.to/chrisparnin/slim-create-a-micro-vm-from-a-dockerfile-21od)
+- [Stratovirt](https://github.com/openeuler-mirror/stratovirt)
 - [Hyperlight](https://github.com/hyperlight-dev/hyperlight) is a lightweight Virtual Machine Manager designed to be embedded within applications
 
 # Posts
