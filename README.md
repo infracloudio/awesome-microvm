@@ -10,6 +10,8 @@
 
 - [Alioth](https://github.com/google/alioth)
 - [Cloud Hypervisor](https://www.cloudhypervisor.org/)
+- [Cocoon](https://github.com/cocoonstack/cocoon) is a lightweight MicroVM engine built on Cloud Hypervisor and Firecracker, with OCI/cloud-image support, snapshots and clones, CNI networking, and a Docker-like CLI
+	- [Cocoon Sandbox](https://github.com/cocoonstack/sandbox) builds fast MicroVM sandboxes for AI agents on top of Cocoon, with warm pools, golden snapshot clones, and vsock-only no-network mode
 - [Kata Containers](https://github.com/kata-containers/kata-containers)
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) allows running and managing micro VMs
 	- [Deep dive on Firecracker](https://lwn.net/Articles/775736/)
