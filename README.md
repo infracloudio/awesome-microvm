@@ -17,6 +17,7 @@
 	- [Deep dive on Firecracker](https://lwn.net/Articles/775736/)
 	- [ContainerD managed MicroVMs](https://github.com/firecracker-microvm/firecracker-containerd)
 - [Flintlock](https://github.com/liquidmetal-dev/flintlock) is a streamlined service to manage the lifecycle of micro VMs
+- [go-microvm](https://github.com/stacklok/go-microvm) Go framework for running OCI images as microVMs via [libkrun](https://github.com/containers/libkrun), with embedded runtime, rootfs management, and guest networking
 - [NixOS microVMs](https://github.com/astro/microvm.nix)
 - [Slim](https://github.com/ottomatica/slim/) allows using Dockerfiles to create micro VMs
 	- [Slim tutorial](https://dev.to/chrisparnin/slim-create-a-micro-vm-from-a-dockerfile-21od)
