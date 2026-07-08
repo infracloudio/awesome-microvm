@@ -22,7 +22,7 @@
 	- [Slim tutorial](https://dev.to/chrisparnin/slim-create-a-micro-vm-from-a-dockerfile-21od)
 - [Stratovirt](https://github.com/openeuler-mirror/stratovirt)
 - [Hyperlight](https://github.com/hyperlight-dev/hyperlight) is a lightweight Virtual Machine Manager designed to be embedded within applications
-- [mitos](https://github.com/mitos-run/mitos) is a Kubernetes-native runtime that live copy-on-write forks a running Firecracker microVM into N isolated, self-hostable sandboxes for AI agents
+- [Mitos](https://github.com/mitos-run/mitos) is a Kubernetes-native runtime that live copy-on-write forks a running Firecracker microVM into N isolated, self-hostable sandboxes for AI agents
 
 # Posts
 
