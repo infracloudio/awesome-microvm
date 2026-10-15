@@ -25,6 +25,7 @@
 - [Hyperlight](https://github.com/hyperlight-dev/hyperlight) is a lightweight Virtual Machine Manager designed to be embedded within applications
 - [Mitos](https://github.com/mitos-run/mitos) is a Kubernetes-native runtime that live copy-on-write forks a running Firecracker microVM into N isolated, self-hostable sandboxes for AI agents
 - [smolvm](https://github.com/smol-machines/smolvm) is a portable microVM manager built on [libkrun](https://github.com/containers/libkrun) that runs OCI images as VMs on Linux (KVM) and macOS (HVF), and can copy-on-write fork a running VM (memory + disk) in ~150ms for AI-agent sandboxes
+- [Jokku](https://github.com/wes/jokku) is a self-hosted PaaS with Dokku's git push workflow that runs each app instance in its own Firecracker microVM, across a cluster
 
 # Posts
 
