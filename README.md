@@ -25,6 +25,7 @@
 - [Hyperlight](https://github.com/hyperlight-dev/hyperlight) is a lightweight Virtual Machine Manager designed to be embedded within applications
 - [Mitos](https://github.com/mitos-run/mitos) is a Kubernetes-native runtime that live copy-on-write forks a running Firecracker microVM into N isolated, self-hostable sandboxes for AI agents
 - [smolvm](https://github.com/smol-machines/smolvm) is a portable microVM manager built on [libkrun](https://github.com/containers/libkrun) that runs OCI images as VMs on Linux (KVM) and macOS (HVF), and can copy-on-write fork a running VM (memory + disk) in ~150ms for AI-agent sandboxes
+- [Spawnbox](https://github.com/TulipFarm/spawnbox) is a self-hosted, open-source sandbox server for AI agents that runs each sandbox as a Firecracker microVM (or a gVisor container on hosts without KVM), with pause and resume, live forks, per-sandbox network allowlists, and secrets that stay outside the sandbox
 
 # Posts
 
