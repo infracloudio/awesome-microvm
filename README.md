@@ -27,6 +27,7 @@
 - [Mitos](https://github.com/mitos-run/mitos) is a Kubernetes-native runtime that live copy-on-write forks a running Firecracker microVM into N isolated, self-hostable sandboxes for AI agents
 - [smolvm](https://github.com/smol-machines/smolvm) is a portable microVM manager built on [libkrun](https://github.com/containers/libkrun) that runs OCI images as VMs on Linux (KVM) and macOS (HVF), and can copy-on-write fork a running VM (memory + disk) in ~150ms for AI-agent sandboxes
 - [Jokku](https://github.com/wes/jokku) is a self-hosted PaaS with Dokku's git push workflow that runs each app instance in its own Firecracker microVM, across a cluster
+- [kosa8](https://kosa8.com) is a commercial runtime that runs AI-agent sandboxes as microVMs on Macs (Virtualization.framework) and Linux (Cloud Hypervisor on KVM), locally or on its hosted cloud, with a Docker-compatible API and checkpoint, rewind and fork of a running VM
 
 # Posts
 
