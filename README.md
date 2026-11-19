@@ -10,6 +10,7 @@
 
 - [Alioth](https://github.com/google/alioth)
 - [Cloud Hypervisor](https://www.cloudhypervisor.org/)
+	- [Virtainer guest agent](https://github.com/virtainer/virtainer-guest-agent) is a modern guest agent for x86_64 Linux and Windows virtual machines that speaks the QEMU Guest Agent protocol over vsock
 - [Cocoon](https://github.com/cocoonstack/cocoon) is a lightweight MicroVM engine built on Cloud Hypervisor and Firecracker, with OCI/cloud-image support, snapshots and clones, CNI networking, and a Docker-like CLI
 	- [Cocoon Sandbox](https://github.com/cocoonstack/sandbox) builds fast MicroVM sandboxes for AI agents on top of Cocoon, with warm pools, golden snapshot clones, and vsock-only no-network mode
 - [Kata Containers](https://github.com/kata-containers/kata-containers)
@@ -25,6 +26,8 @@
 - [Hyperlight](https://github.com/hyperlight-dev/hyperlight) is a lightweight Virtual Machine Manager designed to be embedded within applications
 - [Mitos](https://github.com/mitos-run/mitos) is a Kubernetes-native runtime that live copy-on-write forks a running Firecracker microVM into N isolated, self-hostable sandboxes for AI agents
 - [smolvm](https://github.com/smol-machines/smolvm) is a portable microVM manager built on [libkrun](https://github.com/containers/libkrun) that runs OCI images as VMs on Linux (KVM) and macOS (HVF), and can copy-on-write fork a running VM (memory + disk) in ~150ms for AI-agent sandboxes
+- [Jokku](https://github.com/wes/jokku) is a self-hosted PaaS with Dokku's git push workflow that runs each app instance in its own Firecracker microVM, across a cluster
+- [kosa8](https://kosa8.com) is a commercial runtime that runs AI-agent sandboxes as microVMs on Macs (Virtualization.framework) and Linux (Cloud Hypervisor on KVM), locally or on its hosted cloud, with a Docker-compatible API and checkpoint, rewind and fork of a running VM
 - [Spawnbox](https://github.com/TulipFarm/spawnbox) is a self-hosted, open-source sandbox server for AI agents that runs each sandbox as a Firecracker microVM (or a gVisor container on hosts without KVM), with pause and resume, live forks, per-sandbox network allowlists, and secrets that stay outside the sandbox
 
 # Posts
