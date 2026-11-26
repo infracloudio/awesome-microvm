@@ -29,6 +29,7 @@
 - [Jokku](https://github.com/wes/jokku) is a self-hosted PaaS with Dokku's git push workflow that runs each app instance in its own Firecracker microVM, across a cluster
 - [kosa8](https://kosa8.com) is a commercial runtime that runs AI-agent sandboxes as microVMs on Macs (Virtualization.framework) and Linux (Cloud Hypervisor on KVM), locally or on its hosted cloud, with a Docker-compatible API and checkpoint, rewind and fork of a running VM
 - [Spawnbox](https://github.com/TulipFarm/spawnbox) is a self-hosted, open-source sandbox server for AI agents that runs each sandbox as a Firecracker microVM (or a gVisor container on hosts without KVM), with pause and resume, live forks, per-sandbox network allowlists, and secrets that stay outside the sandbox
+- [Sandboxer](https://sandboxer.com) is a commercial service that runs cloud sandboxes for AI agents as Cloud Hypervisor microVMs, each a full Ubuntu 24.04 VM with its own kernel, and saves memory as well as disk when a sandbox stops, so its processes are still running after resume
 
 # Posts
 
